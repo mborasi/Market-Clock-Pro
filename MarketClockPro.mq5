@@ -2,6 +2,8 @@
 //|                                               MarketClockPro.mq5 |
 //|                                    Copyright (c) 2026, M. Borasi |
 //|                                                https://jyxos.com |
+//|                   Licensed under the Apache License, Version 2.0 |
+//|                       http://www.apache.org/licenses/LICENSE-2.0 |
 //+------------------------------------------------------------------+
 #property copyright "Copyright 2026, Marcelo Borasi - JYXOS"
 #property link      "https://jyxos.com"
